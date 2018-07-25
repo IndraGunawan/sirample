@@ -9,3 +9,5 @@ gem "sinatra", "~> 2.0"
 gem "sinatra-contrib", "~> 2.0"
 gem "rubyq", "~> 0.1.0"
 gem "simplecov", "~> 0.16.1", :group => [:test]
+
+gem "sqlite3", "~> 1.3"
